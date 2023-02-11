@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41039967609",
+    "project_id": "godesq-pointing-system",
+    "storage_bucket": "godesq-pointing-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41039967609:android:dd079f1ec0007f39aaeba8",
+        "android_client_info": {
+          "package_name": "com.example.pointing_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41039967609-eafd3r1e0va0s2r250egjmva97b83djp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfol3GG9gFijYdov7vsaZr49Ed5y48gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41039967609-eafd3r1e0va0s2r250egjmva97b83djp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
