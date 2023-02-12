@@ -13,7 +13,7 @@ class EmployeeInitial extends EmployeeState {
 }
 
 class EmployeeListLoaded extends EmployeeState {
-  final List<EmployerModel> employerModel;
+  final List<Employees> employerModel;
 
   const EmployeeListLoaded(this.employerModel);
   @override

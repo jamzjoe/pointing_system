@@ -32,6 +32,7 @@ class EmployeeBloc extends Bloc<EmployeeEvent, EmployeeState> {
 
     on<AddEmployeeEvent>((event, emit) async {
       await _employeeRepository.addEmployee(event.data);
+      // _employeeRepository.createCompany(CompanyEmployeeModel());
     });
   }
 }

@@ -11,7 +11,7 @@ class FetchEmployeeEvent extends EmployeeEvent {
 }
 
 class AddEmployeeEvent extends EmployeeEvent {
-  final EmployerModel data;
+  final Employees data;
 
   const AddEmployeeEvent(this.data);
 
